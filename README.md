@@ -38,7 +38,7 @@ FROM services_weekly;
 ```
 ## 📸 **SQL Queries**
 
-![Check_SQL Query File](https://github.com/palakpatel315/Day_3-Sorting-Data-with-ORDER-BY/tree/main/Day_3_SQL_Queries)
+![Check_SQL Query File](https://github.com/palakpatel315/Day_5-Aggregate-Functions-COUNT-SUM-AVG-MIN-MAX-/tree/main/Day_5_SQL_Queries)
 
 ---
 Thank you [Indian Data Club](https://www.linkedin.com/company/indian-data-club/posts/?feedView=all) for starting this challenge and [DPDzero](https://www.linkedin.com/company/dpdzero/) the title sponsor of this challenge
